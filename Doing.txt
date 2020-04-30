@@ -1,1 +1,2 @@
 Estudando Java
+Estudando Nuxt
