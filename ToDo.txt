@@ -1,3 +1,4 @@
 Estudar C#
 Estudar Ingles
 Estudar Laravel
+Estudar Nuxt

@@ -1,2 +1,1 @@
-# estudo-git
-Estudando o Git
+Estudando GIT
